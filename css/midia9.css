@@ -1,0 +1,352 @@
+@font-face{
+	font-family: starfor;
+	src: url("../fonts/starfor.OTF");
+}
+@font-face{
+	font-family: starfor1;
+	src: url("../fonts/starfor1.OTF");
+}
+@font-face{
+	font-family: starfor2;
+	src: url("../fonts/starfor2.OTF");
+}
+
+.color-starfor{
+	color: #3DA8FE !important;
+}
+
+.footer-color ul li a{
+	 color: #999999 !important;
+}
+
+.footer-color ul li a:hover{
+	color: #c7c5c5 !important;
+}
+
+.banner-message .badge,
+.pagination > li > a:hover,
+.pagination > li > a:focus,
+.pagination > li > span:hover,
+.pagination > li > span:focus,
+a.stock:hover,
+.loan-cart,
+a.stock:focus,
+.list-top .list-inline li:hover a,
+.list-top .list-inline li:focus a,
+.list-top .list-inline li.active a,
+.section.bg,
+.tags li:hover a,
+.owl-theme .owl-dots .owl-dot span,
+.car-km,
+.car-oil,
+.car-date,
+.car-price,
+#banner .contact_us,
+.btn-primary,
+.color1_bg,
+.hephaistos.tparrows .arrow-holder,
+.navbar-inverse .dropdown-menu > li > a:focus,
+.navbar-cart small {
+    border-color: #3DA8FE!important;
+    background-color: #3DA8FE !important;
+}
+
+.shop_single_page .product_details .product-review-tab .add_your_review ul li:hover,
+.newprice,
+.shop_single_page .product_details .product_top_section .item_description .item_price,
+.rating i,
+.author-details a,
+.blog-description li i,
+.blog-dark .blog-details li i,
+.blog-meta li i,
+.team-desc p,
+.widget-footer .val,
+.calculate-details span,
+.color,
+#accordion-first .accordion-heading .accordion-toggle > em,
+.special-offer small,
+.normallist i,
+.car-list-wrapper-2 li i,
+.car-table:hover i,
+.car-table:hover p,
+.brochures i,
+.totalpay,
+.custom-sidebar .search-tab a.customa,
+.glyphicon-time,
+.breadcrumb > li + li::before,
+.service-hours sup,
+.service-hours i,
+.search-wrapper small,
+.search-wrapper sup,
+.customlist i,
+.service-hover i,
+.contact-version i,
+.custom-title,
+.related-post small,
+.contact-widget li a,
+.footer .twitter-widget p a,
+.twitter-widget i,
+.rating i,
+.testimonial small,
+.readmore,
+.service-box small,
+.magnifier .magni-desc i,
+.car-wrapper:hover h4 a,
+.search-tab .dropdown-menu > li:hover a,
+.search-tab-nav.nav-tabs > li.active > a,
+.search-tab-nav.nav-tabs > li.active > a:focus,
+.search-tab-nav.nav-tabs > li.active > a:hover,
+.stat-wrap i,
+.copyrights .text-left a,
+.copyrights small,
+.hephaistos.tparrows.tp-rightarrow .arrow-holder:before,
+.hephaistos.tparrows.tp-leftarrow .arrow-holder:before,
+.navbar-inverse .navbar-nav > li:hover a:after,
+.navbar-inverse .navbar-nav li:hover a,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .active > a:hover .navbar-inverse .navbar-nav > .active > a,
+.header-contact i {
+    color: #2596cf !important ;
+}
+
+.navbar-inverse .dropdown-menu > li > a:hover{
+    border-color: #2077bd !important;
+    background-color: #2077bd !important;
+}
+
+.navbar-inverse .navbar-nav li:hover a{
+	color: white !important;
+}
+
+.navbar-inverse .navbar-nav > li > a:after{
+	display: none;
+}
+
+.header{
+	border-top-color: #3DA8FE !important;
+	background-color: white;
+}
+
+.header-contact p{
+	color: #2a353d;
+}
+
+.navbar-inverse{
+	background-color: #3DA8FE;
+}
+
+.face:hover{
+	color: #4267B2 !important;
+}
+
+.insta:hover{
+	color: #CE2F7B !important;
+}
+
+.margin-modelos{
+	margin: 10px 0 !important;
+   border: 0;
+}
+
+.modelo-titulo{
+	padding: 10px 10px !important;
+	color: #3DA8FE !important;
+   margin: 0px 0 0px !important;
+
+}
+.modelo-titulo:hover{
+	background-color: #3DA8FE;
+	border-color: #3DA8FE;
+	color: white !important;
+	transition: all 0.7s ease;
+}
+.modelo-titulo h4{
+	font-size: 18px !important;
+}
+
+.starfor,
+.starfor h4,
+.navbar-inverse .navbar-nav > li > a
+{
+	font-family: starfor1 !important;
+}
+
+.starfor1,
+.navbar-inverse .navbar-nav > li > a,
+.navbar-inverse .navbar-nav > li > ul > li > a
+{
+	font-family: starfor1 !important;
+}
+
+.starfor2 h4{
+	font-family: starfor2 !important;
+	color: #626466 !important;
+}
+
+.color1{
+	background-color: #3da8fe ;
+}
+.color2{
+	background-color: #2077bd ;
+}
+.color3{
+	background-color: #005793;
+}
+
+.btn1{
+   padding: 10px 30px;
+   border-radius: 0;
+   font-size: 14px;
+}
+
+.btn-default1{
+	background-color: #3da8fe;
+	border-color: white;
+	color: #ffffff;
+}
+.btn-default1:hover{
+	background-color: white;
+	color: #3da8fe;
+	transition: all 0.7s ease;
+}
+
+.btn-default2{
+	background-color: #2077bd;
+	border-color: white;
+	color: #ffffff;
+}
+.btn-default2:hover{
+	background-color: white;
+	color: #2077bd;
+	transition: all 0.7s ease;
+}
+
+.btn-default3{
+	background-color: #005793;
+   border-color: white;
+   color: #ffffff;
+}
+.btn-default3:hover{
+	background-color: white;
+	color: #005793;
+	transition: all 0.7s ease;
+}
+
+.margin-section{
+	margin-top: 50px;
+}
+
+.button-revisao{
+	margin-top: 20px;
+	padding: 10px 10px;
+}
+
+.button-revisao:hover{
+	background-color: #0F3D67 !important;
+}
+
+.blog-details{
+	    min-height: 215px;
+
+}
+
+.title-car{
+	margin-top: 20px !important;
+}
+
+.seminovo-titulo{
+	padding: 10px 10px !important;
+   margin: 10px 0 8px 0 !important;
+   border-radius: 2px !important;
+}
+.seminovo-titulo:hover{
+	background-color: #01447C !important;
+	border-color: #01447C !important;
+}
+
+.light-tab.search-tab .btn-primary{
+	background-color: #3da8fe !important;
+	border-color: #3da8fe !important;
+}
+
+#banner h1{
+    line-height: 80px;
+    color: #3da8fe !important;
+    font-size: 60px;
+    padding-bottom: 19px;
+    display: inline-block;
+    border-bottom: 1px solid transparent;
+    font-family: starfor1 !important;
+}
+
+.nome-car{
+	max-height: 32px;
+	margin-top: 10px;
+}
+
+.car-preco{
+	margin-top: 10px !important;
+	font-size: 20px;
+}
+
+.car-subtitle{
+	margin-top: 1px !important;
+}
+
+.seminovo-descricao{
+	margin-top: 7px;
+}
+
+
+
+@media (max-width: 1400px){
+	.message-box h3{
+	   font-size: 20px !important;
+	}
+}
+
+@media screen and (max-width: 1025px){
+	.message-box p{
+	   font-size: 19px;
+	}
+	.message-box h3{
+     font-size: 25px;
+	}
+}
+
+@media (max-width: 956px){
+	.navbar-inverse .navbar-nav > li > a{
+		font-size: 10px !important;
+	}
+}
+
+@media (max-width: 801px){
+	.navbar-inverse .navbar-nav > li > a{
+		font-size: 09px !important;
+	}
+}
+
+@media screen and (max-width: 778px){
+	.navbar-inverse .navbar-nav > li > a{
+		font-size: 12px;
+	}
+	.message-box p{
+	   font-size: 35px;
+	   line-height: 1.1em;
+	}
+	.message-box h3{
+     font-size: 30px;
+	}
+}
+
+@media (max-width: 768px){
+	.margin-section{
+		margin-top: 0px;
+	}
+}
+
+@media screen and (max-width: 426px){
+	.message-box p{
+	   font-size: 18px;
+	}
+}
